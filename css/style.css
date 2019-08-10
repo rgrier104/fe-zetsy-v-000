@@ -45,3 +45,7 @@ img {
 	border-style: solid;
 	border-color: rgb(152,173,166);
 }
+
+.small {
+	font-size: .8em;
+}
