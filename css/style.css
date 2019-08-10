@@ -23,6 +23,7 @@ h1 {
 	font-family: 'Baskerville', serif;
 	color: rgb(111,127,122);
 	font-size: 5em;
+	font-weight: normal;
 	border-bottom: 1px solid #ccc;
 	padding:20px 0 0 0;
 	margin: 0px 0px 5px;
