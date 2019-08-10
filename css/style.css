@@ -32,4 +32,10 @@ h2 {
 
 p {
 	color: #555;
+	
+}
+
+img {
+	border-width: 5px;
+	border-style: solid;
 }
