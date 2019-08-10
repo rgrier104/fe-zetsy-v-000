@@ -23,6 +23,7 @@ h1 {
 	font-family: 'Baskerville', serif;
 	color: rgb(111,127,122);
 	font-size: 5em;
+	border-bottom: 2px;
 }
 
 h2 {
