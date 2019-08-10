@@ -5,6 +5,10 @@
 	src: url("../fonts/Baskerville.ttc") format("ttc");
 }
 
+h1 {
+	font-family: 'Baskerville', serif;
+}
+
 /*////////// Global Styles //////////*/
 
 body {
